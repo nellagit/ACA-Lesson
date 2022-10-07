@@ -1,0 +1,4 @@
+ 20:57:55 up 1 day,  4:19,  2 users,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+testaca  tty1     -                Tue16   53:25   0.42s  0.40s -bash
+testaca  pts/0    192.168.56.1     20:37    3.00s  0.11s  0.00s /bin/bash ./script3.sh
