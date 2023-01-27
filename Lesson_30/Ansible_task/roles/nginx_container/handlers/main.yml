@@ -1,0 +1,6 @@
+---
+# handlers file for nginx_container
+- name: restart nginx
+  ansible.builtin.service:
+    name: nginx
+    state: restarted
